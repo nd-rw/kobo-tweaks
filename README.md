@@ -1,5 +1,5 @@
 # kobo-tweaks
-custom things installed on my Clara HD
+//TODO install a combination of the below things on my Kobo e-reader
 
 launcher: https://github.com/niluje/kfmon
 
