@@ -9,9 +9,13 @@ script launcher: https://github.com/geek1011/NickelMenu/
 
 ## sqlite scripts
 
+*credit: https://gist.github.com/ozgurkalan/730f76e2ca7df552151c09a1df8d36bd*
+
 first get sqlite file from  `KOBOeReader > .kobo > KoboReader.sqlite`
 
 **list highlights and annotations by ISBN and book:**
+
+
 ```
 select 
 ISBN, title,
